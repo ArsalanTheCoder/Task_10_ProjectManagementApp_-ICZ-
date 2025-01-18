@@ -22,7 +22,7 @@ Welcome to the **Project Management App**! This app is designed to simplify the 
 
 ## Screenshots
 
-![Login Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/sign%20IN.jpg?raw=true)
+![Login_Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/sign%20IN.jpg?raw=true)
 
 
 ![Project List Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20List.jpg?raw=true)
