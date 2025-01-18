@@ -22,7 +22,7 @@ Welcome to the **Project Management App**! This app is designed to simplify the 
 
 ## Screenshots
 
-![Project List Screen]([https://github.com/your-repo-path/screenshots/project_list.png])
+![Project List Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20List.jpg?raw=true)
 *Project List Screen showing tasks with priorities and statuses.*
 
 ![Project Detail Screen](https://github.com/your-repo-path/screenshots/project_detail.png)
