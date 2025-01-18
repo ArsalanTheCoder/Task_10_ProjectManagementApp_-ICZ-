@@ -25,5 +25,5 @@ Welcome to the **Project Management App**! This app is designed to simplify the 
 ![Project List Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20List.jpg?raw=true)
 *Project List Screen showing tasks with priorities and statuses.*
 
-![Project Detail Screen](https://github.com/your-repo-path/screenshots/project_detail.png)
+![Project Detail Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20Detail%20List.jpg?raw=true)
 *Project Details Screen displaying structured data such as title, description, start date, end date, etc.*
