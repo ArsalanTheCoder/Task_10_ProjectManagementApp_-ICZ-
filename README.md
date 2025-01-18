@@ -22,12 +22,11 @@ Welcome to the **Project Management App**! This app is designed to simplify the 
 
 ## Screenshots
 
+![Login Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/sign%20IN.jpg?raw=true)
+
+
 ![Project List Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20List.jpg?raw=true)
 *Project List Screen showing tasks with priorities and statuses.*
 
 ![Project Detail Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20Detail%20List.jpg?raw=true)
 *Project Details Screen displaying structured data such as title, description, start date, end date, etc.*
-
-https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/sign%20IN.jpg?raw=true
-
-![Login Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/sign%20IN.jpg?raw=true)
