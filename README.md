@@ -6,13 +6,9 @@ Welcome to the **Project Management App**! This app is designed to simplify the 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
-- **Task Management**: Create, update, and delete tasks with different priorities.
+- **Task Management**: Create, update, View, and delete tasks with different priorities.
 - **Project Overview**: View project details in a structured and organized format.
 - **Deadline Tracking**: Set and manage start and end dates for each task.
 - **Real-time Updates**: Automatically sync changes with Firestore for real-time collaboration.
