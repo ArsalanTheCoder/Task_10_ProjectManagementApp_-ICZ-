@@ -1,7 +1,6 @@
 # Project Management App
 
 
-
 Welcome to the **Project Management App**! This app is designed to simplify the management of projects, enabling users to efficiently track, manage, and organize their tasks. Whether you are working on personal or team projects, this app will provide a seamless experience for managing your project details, tasks, priorities, deadlines, and more.
 
 ## Table of Contents
