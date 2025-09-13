@@ -33,23 +33,28 @@ Welcome to the **Project Management App** — a clean, responsive Flutter app fo
 
 ## 📸 Screenshots
 
+<!-- THREE HORIZONTAL IMAGES — Table layout -->
 <p align="center">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/sign%20IN.jpg?raw=true" width="360" alt="Login Screen" />
-    <figcaption align="center"><strong>Login Screen</strong><br/><em>Clean sign-in UI with validation and quick access to onboarding.</em></figcaption>
-  </figure>
 
-  <figure style="display:inline-block; margin:10px;">
-    <img src="https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20List.jpg?raw=true" width="360" alt="Project List Screen" />
-    <figcaption align="center"><strong>Project List</strong><br/><em>Overview of projects showing priorities, statuses, and quick action buttons.</em></figcaption>
-  </figure>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/sign%20IN.jpg?raw=true" width="320" alt="Login Screen"><br>
+      <em>Login Screen</em>
+    </td>
 
-<p align="center" style="margin-top:18px;">
-  <figure style="display:inline-block; margin:10px;">
-    <img src="https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20Detail%20List.jpg?raw=true" width="720" alt="Project Detail Screen" />
-    <figcaption align="center"><strong>Project Detail</strong><br/><em>Detailed task list with title, description, start/end dates, and status — ideal for managers and contributors.</em></figcaption>
-  </figure>
+    <td align="center">
+      <img src="https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20List.jpg?raw=true" width="320" alt="Project List"><br>
+      <em>Project List</em>
+    </td>
+
+    <td align="center">
+      <img src="https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20Detail%20List.jpg?raw=true" width="320" alt="Project Detail"><br>
+      <em>Project Detail</em>
+    </td>
+  </tr>
+</table>
+
 </p>
 
 > Tips:
