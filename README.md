@@ -1,33 +1,59 @@
-# Project Management App
+# 🚀 Project Management App
 
-Welcome to the **Project Management App**! This app is designed to simplify the management of projects, enabling users to efficiently track, manage, and organize their tasks. Whether you are working on personal or team projects, this app will provide a seamless experience for managing your project details, tasks, priorities, deadlines, and more.
+Welcome to the **Project Management App** — a clean, responsive Flutter app for tracking projects, tasks, priorities, and deadlines. Designed for both personal and team workflows with Firebase-backed real-time sync.
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
+---
 
-## Features
-- **Task Management**: Create, update, View, and delete tasks with different priorities.
-- **Project Overview**: View project details in a structured and organized format.
-- **Deadline Tracking**: Set and manage start and end dates for each task.
-- **Real-time Updates**: Automatically sync changes with Firestore for real-time collaboration.
-- **Beautiful UI**: Clean, intuitive, and user-friendly interface with stunning design elements.
-- **Firebase Integration**: Data stored in Firebase, allowing easy access and updates.
+## 📚 Table of Contents
+- [Features](#features)  
+- [Technologies Used](#technologies-used)  
+- [Screenshots](#screenshots)  
 
-## Technologies Used
-- **Flutter**: The framework used to build a responsive and cross-platform mobile app.
-- **Firebase**: Used for backend services, including authentication and Firestore database to store project data.
-- **Google Material Design**: For creating beautiful, standard-compliant UI components.
+---
 
-## Screenshots
+## ✨ Features
+- **Task Management** — Create, update, view, and delete tasks with priorities and statuses.  
 
-![Login_Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/sign%20IN.jpg?raw=true)
+- **Project Overview** — Structured view of project details and task breakdowns.  
 
+- **Deadline Tracking** — Assign start and end dates; monitor upcoming deadlines.  
 
-![Project List Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20List.jpg?raw=true)
-*Project List Screen showing tasks with priorities and statuses.*
+- **Real-time Sync** — Automatic updates via Firebase Firestore for seamless collaboration.  
 
-![Project Detail Screen](https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20Detail%20List.jpg?raw=true)
-*Project Details Screen displaying structured data such as title, description, start date, end date, etc.*
+- **Beautiful UI** — Clean Material Design interface with intuitive interactions.  
 
+---
+
+## 🛠️ Technologies Used
+- **Flutter** (Dart)  
+- **Firebase** (Authentication, Firestore)  
+- **Google Material Design**
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/sign%20IN.jpg?raw=true" width="360" alt="Login Screen" />
+    <figcaption align="center"><strong>Login Screen</strong><br/><em>Clean sign-in UI with validation and quick access to onboarding.</em></figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px;">
+    <img src="https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20List.jpg?raw=true" width="360" alt="Project List Screen" />
+    <figcaption align="center"><strong>Project List</strong><br/><em>Overview of projects showing priorities, statuses, and quick action buttons.</em></figcaption>
+  </figure>
+</p>
+
+<p align="center" style="margin-top:18px;">
+  <figure style="display:inline-block; margin:10px;">
+    <img src="https://github.com/ArsalanTheCoder/Task_10_ProjectManagementApp_-ICZ-/blob/main/Project%20Detail%20List.jpg?raw=true" width="720" alt="Project Detail Screen" />
+    <figcaption align="center"><strong>Project Detail</strong><br/><em>Detailed task list with title, description, start/end dates, and status — ideal for managers and contributors.</em></figcaption>
+  </figure>
+</p>
+
+> Tips:
+> - If the images look too wide on small screens, reduce the widths from `360` / `720` to `280` / `600`.  
+> - For a responsive two-column layout on narrow displays, consider using `width="100%"` inside mobile-specific sections or provide mobile-sized images.
+
+---
